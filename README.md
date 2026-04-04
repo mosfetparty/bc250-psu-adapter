@@ -8,3 +8,5 @@ There are 3 versions:
 3. DIY universal mini adapter
 
 you can find them on my website:  [mosfet.party](https://mosfet.party/)
+
+installation video: https://youtube.com/shorts/l6obiqGzoOI?si=GQPnjSv2MyyRJluW
