@@ -17,7 +17,7 @@ you can find them on my website:  [mosfet.party](https://mosfet.party/)
 installation video: https://youtube.com/shorts/l6obiqGzoOI?si=GQPnjSv2MyyRJluW
 
 
-## List of compatible cases
+## List of compatible cases:
 
 | # | Name | Link | Lite Universal | PnP FSP500 | PnP ATX 24pin |
 |---|------|------|:--------------:|:----------:|:-------------:|
