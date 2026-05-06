@@ -1,6 +1,9 @@
-# bc250-psu-adapter - ***WORK IN PROGRESS***
+# bc250-psu-adapter
 BC250 adapter for proper ATX PSU PS_ON signal control. 
 Enables automatic power control without adittional buttons and jumpers.
+
+
+<img width="800" height="800" alt="lite_front" src="https://github.com/user-attachments/assets/8c4615e9-8f11-44e3-84f0-b3fbe80748d8" />
 
 
 
