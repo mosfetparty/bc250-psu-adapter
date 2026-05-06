@@ -15,3 +15,12 @@ There are 3 versions:
 you can find them on my website:  [mosfet.party](https://mosfet.party/)
 
 installation video: https://youtube.com/shorts/l6obiqGzoOI?si=GQPnjSv2MyyRJluW
+
+
+## List of compatible cases
+
+| # | Name | Link | Lite Universal | PnP FSP500 | PnP ATX 24pin |
+|---|------|------|:--------------:|:----------:|:-------------:|
+| 1 |      |      |                |            |               |
+| 2 |      |      |                |            |               |
+| 3 |      |      |                |            |               |
